@@ -1,0 +1,129 @@
+.Lg{
+    padding: 100px;
+    height: 100px;
+    text-decoration: underline;
+    font-size: 100px;
+    font-family: fantasy;
+}
+
+.div1{
+    height: auto;
+    width: auto;
+    display: inline-block;
+    border: 2px solid;
+    padding: 4%;
+    margin: 40px 40px 40px 40px;  
+}
+.img{
+    padding: 30px;
+    margin: 0px 30px 30px 30px;
+    border-style: groove;
+    border-color: rgb(7, 77, 7);
+    display: inline-block;
+    border: 2px solid rgb(177, 126, 78);
+}
+
+header {
+  text-align: center;
+  text-decoration: solid;
+  text-shadow: olive;
+  
+}
+
+.Pantry{
+    background-color: rgb(187, 157, 147);
+    height: auto;
+    width: auto;
+    border: 5px solid black;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    margin-top: 50px;
+    color: darkolivegreen;
+}
+
+.Cans{
+    background-color: rgba(181, 165, 143, 0.957);
+    height: auto;
+    width: auto;
+}
+
+.kan{
+    background-color: rgb(221, 188, 131);
+    height: auto;
+    width: auto;
+    border: 2px solid olivedrab; 
+
+}
+
+.one{
+    list-style-type: lower-greek;
+    list-style-position: inside;
+}
+
+.Dried{
+    background-color: darkkhaki;
+    height: auto;
+    width: auto;
+}
+
+.carbs{
+    background-color: wheat;
+    height: auto;
+    width: auto;
+    border: 2px solid sienna;
+}
+
+.two{
+    list-style-type: upper-latin;
+    list-style-position: inside;
+}
+
+.Freezer{
+    background-color: rgb(124, 133, 92);
+    color: rgb(234, 191, 116);
+    height: 100%;
+    width: 100%;
+    border: 5px solid black;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    margin-top: 50px;   
+}
+
+.Veggie{
+    background-color: olivedrab;
+    height: auto;
+    width: auto;
+    border: 2px solid;
+}
+
+.notFruit{
+    background-color: rgb(177, 144, 87); 
+    height: auto;
+    width: auto;
+    ;
+}
+
+.three{ 
+    list-style-type: upper-roman;
+    list-style-position: inside;
+}
+
+.Snacks{
+    background-color: rgb(232, 225, 170); 
+    height: auto;
+    width: auto;
+}
+
+.yum{
+    background-color: rgb(184, 145, 106);
+    height: auto;
+    width: auto;
+    border: 2px solid rgba(72, 124, 72, 0.985);
+}
+
+.four{
+    list-style-type: disc;
+    list-style-position: inside;
+}
